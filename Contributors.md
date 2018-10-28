@@ -707,6 +707,7 @@ Edison Shek
 - [Roni Yusuf Manalu](https://github.com/rymanalu)
 - [Andi Insanudin](https://github.com/andiisfh)
 - [ShubU](http://github.com/shubu)
+- [Tasha Sumo] (https://github.com/Tash925)
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
 - [tobinatore](https://github.com/tobinatore/)
